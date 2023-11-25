@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, I'm Matt 〰️ 👋.
+
+I'm currently living in 🇬🇧. Running Engineering @ [Upp.ai](https://www.upp.ai).
+
+I'm a fan of Extreme Programming (XP), focusing on collaboration and delivering measurable customer value rather than yet another JavaScript fad. 
+
+We work with TypeScript, Kafka, Temporal, MongoDb, AWS and many more technologies. 
 
 <!--
 **mattchilds1/mattchilds1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
